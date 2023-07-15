@@ -1,4 +1,4 @@
-# ChinaProject
+# China Project
 Hi
 
 In this project, I worked on a dataset belonging to Chinese Housing in Beijing and derived some beneficial insights regerading housing in China.
